@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Adrien Linares, a french student currently living in the southern city of Montpellier, France
-- 👀 I’m interested in applications of Artificial Intelligence to the space sector, marketing, environment, health as well as in embedded systems.
 - 🌱 I just graduated with a degree in AI and Data Science at the University of Montpellier and actively looking for a professional opportunity.
 - 📫 How to reach me : adrien28210@gmail.com, through my linkedin https://www.linkedin.com/in/adrienlinares/ or my website: https://lincons.infos.st/
 <!---
