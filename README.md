@@ -31,7 +31,7 @@ R&D experience at SAP Labs, operational experience at ESA. I'm a quick learner, 
 *Automatic anonymization of sensitive clinical data in laboratory*
 
  **Private Tutor** @ SuperProf  
-*250+ hours teaching CS & math to 50+ students (high school to college, adults in professional retraining)*
+*300+ hours teaching CS & math to 50+ students (high school to college, adults in professional retraining)*
 
 ---
 
