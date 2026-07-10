@@ -18,6 +18,9 @@ R&D experience at SAP Labs, operational experience at ESA. I'm a quick learner, 
 
 ## Experiences Highlights
 
+ **NLP Data scientist** @ Gustave Roussy
+ * Detect (NER), extract and structure interest entities/variables from medical and genomics reports. Use of decoder-only models.
+
  **LLM Security Analysis** @ SAP Labs  
 *Use of GenAI and XAI for software vulnerability detection*
 
